@@ -1,4 +1,5 @@
 .center-div{
+    place-items: center;
     margin: 0 auto;
     position: relative;
 }
